@@ -1,0 +1,10 @@
+D:\Files\Documents\CSharpProjects\WPUnpacker\WPUnpacker\bin\Debug\WPUnpacker.exe
+D:\Files\Documents\CSharpProjects\WPUnpacker\WPUnpacker\bin\Debug\WPUnpacker.pdb
+D:\Files\Documents\CSharpProjects\WPUnpacker\WPUnpacker\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Files\Documents\CSharpProjects\WPUnpacker\WPUnpacker\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Files\Documents\CSharpProjects\WPUnpacker\WPUnpacker\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Files\Documents\CSharpProjects\WPUnpacker\WPUnpacker\obj\x86\Debug\WPUnpacker.exe
+D:\Files\Documents\CSharpProjects\WPUnpacker\WPUnpacker\obj\x86\Debug\WPUnpacker.pdb
+D:\Files\Documents\CSharpProjects\WPUnpacker\WPUnpacker\obj\x86\Debug\WPUnpacker.Properties.Resources.resources
+D:\Files\Documents\CSharpProjects\WPUnpacker\WPUnpacker\obj\x86\Debug\WPUnpacker.frmMain.resources
+D:\Files\Documents\CSharpProjects\WPUnpacker\WPUnpacker\bin\Debug\Ionic.Zip.dll
