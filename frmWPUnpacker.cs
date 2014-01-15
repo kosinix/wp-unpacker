@@ -24,7 +24,7 @@ namespace WPUnpacker
             // Defaults 
             txtTargetFolder.Text = System.Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments); // Path to User's My Documents
             txtVersion.Text = "3.8";
-            //extractZip2(@"C:\Users\Nico\Desktop\tmp\wp.zip", @"C:\Users\Nico\Desktop\tmp");
+
         }
 
         private void btnSaveTo_Click(object sender, EventArgs e)
