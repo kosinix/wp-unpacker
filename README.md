@@ -7,6 +7,6 @@ Downloads a wordpress zip and extract it to a target directory. Written in Visua
 * .NET Framework 4
 
 ### Installation
-* Download and extract the zip
-* Just run the executable file found in /exe/WPUnpacker.exe
+* Download and extract the [zip](https://github.com/kosinix/wp-unpacker/archive/master.zip)
+* Just run the executable file found in /bin/WPUnpacker.exe
 
