@@ -49,10 +49,6 @@ namespace WPUnpacker
             btnRun.Enabled = false;
             btnSaveTo.Enabled = false;
 
-            this.WindowState = FormWindowState.Normal;
-            this.Activate();
-
-            return;
             // Download dir sits beside the .exe file
             downloadDir = AppDomain.CurrentDomain.BaseDirectory + @"downloads";
             
